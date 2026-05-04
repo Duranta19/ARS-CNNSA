@@ -66,12 +66,14 @@ The proposed model includes:
 
 ---
 
-
----
-
-## ▶️ How to Run
-
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/skin-disease-classification.git
 cd skin-disease-classification
+```
+---
+## Dataset Link
+https://www.kaggle.com/datasets/sayedhossainjobayer/skin-diseases-dataset
+
+
+
